@@ -1,0 +1,6 @@
+DOCUMENTATION
+
+React: https://react.dev/?ref=jonas.io
+Create React App: https://create-react-app.dev/?ref=jonas.io
+Vite (for real world react apps)
+Adding react to a document (PURE REACT): https://gist.githubusercontent.com/gaearon/0275b1e1518599bbeafcde4722e79ed1/raw/db72dcbf3384ee1708c4a07d3be79860db04bff0/example.html 
